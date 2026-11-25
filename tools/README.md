@@ -8,4 +8,5 @@
 - Images go in a folder per week (e.g. `2026-week2/`) and are used by Buffer via
   https://raw.githubusercontent.com/dionpather-afk/tlc-social-posts/main/<folder>/<file>.png
 - Captions: see week1-captions.json for tone. Facebook gets the clickable link; Instagram/TikTok get "link in bio".
+- Audience (Dion, 25 Nov 2026): think big. TLC serves businesses, schools and organisations of every size, in South Africa and beyond. Never say "small business" or use #SmallBusinessSA; use tags like #BusinessWebsites #WebDesign #SEO #AEO #TalentLearnConsult.
 - Rules: no prices on posters; no invented stats or claims; only list client sites that are live (Power Tech Link Solutions is excluded).
